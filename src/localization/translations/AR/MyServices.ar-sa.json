@@ -1,0 +1,33 @@
+{
+    "my_services": {
+        "pending": "Pending",
+        "myRequests": "My Requests",
+        "completed": "Completed",
+        "processDiagram": "Process Flow",
+        "Id": "Id"
+    },
+    "comments": {
+        "commentsCount": "{{count}} Comments",
+        "commentCount": "{{count}} Comment",
+        "noComment": "No comments yet",
+        "post": "Post",
+        "enterYourComment": "Enter your comment",
+        "maxCharLimit":"لقد وصلت إلى الحد الأقصى لعدد الأحرف",
+    },
+    "requestDetail":{
+        "taskId": "Task ID",
+        "assignedTo": "ASSIGNED TO",
+        "requester": "REQUESTER",
+        "createdOn": "CREATED ON",
+        "taskDescription": "TASK DESCRIPTION",
+        "attachedFiles": "ATTACHED FILES",
+        "approve": "Approve",
+        "reject": "Reject",
+        "save": "Save",
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "noFileAttached": "No files attached",
+        "appliedAction": "Applied Action"
+
+    }
+}

@@ -1,0 +1,27 @@
+
+{
+        "personalProfile":{
+                "personalInfo": "معلومات شخصية",
+                "editPersonalInfo":"تحرير المعلومات الشخصية",
+                "businessInfo":"معلومات العمل",
+                "cancel":"يلغي",
+                "hireDate":"موعد التوظيف",
+                "dateOfBirth":"تاريخ الولادة",
+                "lastPromotion":"آخر ترقية",
+                "workingSince":"العمل منذ",
+                "employmentDetails":"تفاصيل العمل",
+                "employeeId":"هوية الموظف",
+                "position":"موقع",
+                "employmentType":"نوع الوظيفة",
+                "assignmentStatus":"حالة الواجب",
+                "gender":"جنس تذكير أو تأنيث",
+                "lastSalary":"أخر راتب",
+                "year":"{{year}} عام",
+                "years":"{{year}} سنوات",
+                "male":"ذكر",
+                "female":"أنثى",
+                "viewEmployementInfo":"عرض معلومات التوظيف الخاصة بك",
+                "orgStructure":"الهيكل التنظيمي",
+                "viewHierarcyChart":"عرض المخطط الهرمي"
+        }
+}

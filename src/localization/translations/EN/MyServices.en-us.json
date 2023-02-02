@@ -1,0 +1,37 @@
+{
+    "my_services":{
+        "pending": "Pending",
+        "myRequests": "My Requests",
+        "noRequests": "No requests raised yet",
+        "completed": "Completed",
+        "processDiagram": "Process Flow",
+        "Id":"Id"
+    },
+    "comments":{
+        "commentsCount":"{{count}} Comments",
+        "commentCount":"{{count}} Comment",
+        "noComment":"No comments yet",
+        "post":"Post",
+        "enterYourComment":"Enter your comment",
+        "maxCharLimit":"You have reached the maximum character limit",
+        "noInternet":"Sorry! We are unable to establish a connection. Please retry later",
+        "apiError":"Sorry! Something went wrong. Please retry later",
+    },
+    "requestDetail":{
+        "taskId": "Task ID",
+        "assignedTo": "ASSIGNED TO",
+        "requester": "REQUESTER",
+        "createdOn": "CREATED ON",
+        "taskDescription": "TASK DESCRIPTION",
+        "attachedFiles": "ATTACHED FILES",
+        "approve": "Approve",
+        "reject": "Reject",
+        "save": "Save",
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "noFileAttached": "No files attached",
+        "appliedAction": "Applied Action",
+        "unassigned": "Unassigned"
+
+    }
+}

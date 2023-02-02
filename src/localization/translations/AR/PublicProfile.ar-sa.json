@@ -1,0 +1,30 @@
+{
+        "publicProfile": {
+                "lastSeen": "آخر ظهور - {{time}}",
+                "overview": "ملخص",
+                "department": "قسم",
+                "location": "موقع",
+                "designation": "تعيين",
+                "manager": "مدير",
+                "birthday":"!اليوم هو {{name}}\nعيد ميلاد",
+                "anniversary":"اليوم هو {{name}}\n{{count}} ذكرى العمل",
+                "selfAnniversary":"اليوم هو\n{{count}} ذكرى العمل الخاصة بك",
+                "viewCompanyInfo":"عرض معلومات شركتك",
+                "tawalWishesBirthday":"تتمنى لك طوال عيد ميلاد سعيد للغاية!",
+                "publicProfile": "حساب عام",
+                "editPublicInfo": "تحرير المعلومات العامة",
+                "msTeams": "فرق MS",
+                "msPlanner": "مخطط MS",
+                "personalProfile": "الملف الشخصي",
+                "call":"مكالمة",
+                "email":"إيميل",
+                "message":"رسالة",
+                "viewProfile":"عرض الصفحة الشخصية",
+                "businessInfo": "Business Info",
+                "editBusinessInfo": "Edit Business Info",
+                "personalInfo": "Personal Info",
+                "jobTitle":"Job Title",
+                "orgStructure": "منظمة.هيكل",
+                "reports":" {reports} التقارير"
+        }
+}

@@ -1,0 +1,31 @@
+
+{
+        "publicProfile":{
+                "lastSeen": "Last seen - {{time}}",
+                "overview": "Overview",
+                "department": "Department",
+                "location": "Location",
+                "designation": "Designation",
+                "manager": "Manager",
+                "birthday":"Today is {{name}}'s\nBirthday!",
+                "anniversary":"Today is {{name}}'s\n{{count}} Work Anniversary",
+                "selfAnniversary":"Today is your\n{{count}} Work Anniversary",
+                "viewCompanyInfo":"View your company info",
+                "tawalWishesBirthday":"Tawal wishes you a very Happy Birthday!",
+                "publicProfile": "Public Profile",
+                "editPublicInfo": "Edit Public Info",
+                "msTeams": "MS Teams",
+                "msPlanner": "MS Planner",
+                "personalProfile": "Personal Profile",
+                "call":"Call",
+                "message":"Message",
+                "email":"Email",
+                "viewProfile":"View Profile",
+                "businessInfo": "Business Info",
+                "editBusinessInfo": "Edit Business Info",
+                "personalInfo": "Personal Info",
+                "jobTitle":"Job Title",
+                "orgStructure": "Org. Structure",
+                "reports":"{{reports}} reports"
+        }
+}

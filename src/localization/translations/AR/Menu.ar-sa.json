@@ -1,0 +1,21 @@
+
+{
+    "menu":{
+        "notifications": "إشعارات",
+        "settings": "إعدادات",
+        "attendance":"حضور",
+        "meetings":"الاجتماعات",
+        "prayer":"دعاء",
+        "myFiles":"ملفاتي",
+        "weather":"طقس",
+        "calendar":"التقويم",
+        "privateProfile":"الملف الشخصي الخاص",
+        "publicProfile":"حساب عام",
+        "logout":"تسجيل خروج",
+        "alertLogout":"هل تريد حقًا تسجيل الخروج؟",
+        "cancel":"إلغاء",
+        "ok":"نعم",
+        "businessInfo": "Business Info",
+        "personalInfo": "معلومات شخصية"
+    }
+}

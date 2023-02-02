@@ -1,0 +1,13 @@
+{
+        "mytasks": {
+                "title": "To Do",
+                "notask": "No tasks assigned yet",
+                "confirmAction":"Are you sure you want to {{actionName}} the task {{taskName}} ?",
+                "actionName":"Yes, {{action}} it",
+                "actionSuccess":"{{taskName}} has been successfully {{actionName}}.",
+                "mandatoryActionError":"You need to fill the mandatory fields before processing this task",
+                "reassignedSuccess":"You have reassigned this task to {{name}}",
+                "noUsers":"No user available for this group.",
+                "genericSuccessMessage": "Task successfully completed"
+        }
+}

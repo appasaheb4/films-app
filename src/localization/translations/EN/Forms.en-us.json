@@ -1,0 +1,27 @@
+{
+        "multiSelect": {
+                "chooseOptions": "Choose Options",
+                "clearSelections": "Clear Selections",
+                "clearSelection": "Clear Selection",
+                "submit": "Submit",
+                "chooseOneOrMultiple":"Choose your option(s)"
+        },
+        "singleSelect": {
+                "chooseAnOption": "Choose An Option",
+                "chooseSubCategory":"Choose a sub-category"
+        },
+        "datePicker": {
+                "chooseADateRange": "Choose a date range"
+        },
+        "timePicker": {
+                "chooseATime": "Choose a time"
+        },
+        "placeHolder": {
+                "shortAnswer": "Enter {{labelName}}",
+                "longAnswer": "Enter {{labelName}}",
+                "date": "Pick the {{labelName}}",
+                "time": "Pick the {{labelName}}",
+                "multiSelect": "Select {{labelName}}",
+                "singleSelect": "Pick {{labelName}}"
+        }
+}

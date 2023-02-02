@@ -1,0 +1,17 @@
+
+{
+        "taskSummary":{
+                "todayProgress": "تقدم اليوم \n موجز",
+                "completedTask": "اكتمل {{completed}} من {{total}} {{task}}",
+                "dueTask":"لديك {{taskCount}} مهمة\nتستحق اليوم!",
+                "greatWork":"عمل رائع!\nاكتملت كافة المهام",
+                "congratulations":"تهانينا",
+                "tasks":"مهام",
+                "task":"مهمة",
+                "teamMembers":"أعضاء الفريق",
+                "aging":"متوسط ​​الشيخوخة",
+                "days":"{{day}} أيام",
+                "yourTasks":"المهام الخاصة بك",
+                "viewAll":"مشاهدة الكل"
+        }
+}

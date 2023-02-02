@@ -1,0 +1,20 @@
+{
+        "reassign": {
+                "reassignTask": "Reassign Task to",
+                "searchAssignee": "Search a name...",
+                "noMatchFound":"No match found for \"{{search_text}}\""
+        },
+        "assign":{
+                "chooseTaskAssignee":"Choose Task Assignee",
+                "assignToMe":"Assign to me"
+        },
+        "myService":{
+                "searchForTask":"Search for tasks...",
+                "tasksIn":"TASKS IN {{process_name}}",
+                "chooseTaskAssignee":"Choose Task Assignee"
+        },
+        "categorySelection":{
+                "chooseCatogory":"CHOOSE A CATEGORY",
+                "searchCategories":"Search for categories..."
+        }
+}

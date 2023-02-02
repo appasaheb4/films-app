@@ -1,0 +1,21 @@
+
+{
+        "taskSummary":{ 
+                "todayProgress": "Today's Progress\nSummary",
+                "completedTask": "{{completed}} of {{total}} {{task}} completed",
+                "dueTask":"You have {{taskCount}} tasks\ndue today!",
+                "greatWork":"Great work!\nAll tasks complete",
+                "letsStarted":"Lets get started!",
+                "congratulations":"Congratulations!",
+                "tasks":"tasks",
+                "task":"task",
+                "teamMembers":"Team Members",
+                "aging":"Avg. Aging",
+                "days":"{{day}} Days",
+                "myWork": "My Work",
+                "viewAll":"View All",
+                "workSummary":"Work Summary",
+                "completed":"Completed",
+                "total":"Total"
+        }
+}

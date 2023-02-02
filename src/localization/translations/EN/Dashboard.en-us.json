@@ -1,0 +1,26 @@
+{
+    "header":{
+        "hi":"Hi {{name}}!"
+    },
+    "task":{
+        "teamMembers":"Team Members",
+        "teams": "Teams",
+        "aging":"Avg. Aging",
+        "days":"{{day}} Days",
+        "tasks":"tasks",
+        "myWork":"My Work"
+    },
+    "request":{
+        "myRequests": "My Requests",
+        "viewAll": "View All"
+    },
+    "calendarView":{
+        "calendar": "Calendar",
+        "attendance": "Attendance",
+        "leaves": "Leaves",
+        "balance": "Balance",
+        "in": "In",
+        "out": "Out",
+        "inOffice": "In Office"
+    }
+}

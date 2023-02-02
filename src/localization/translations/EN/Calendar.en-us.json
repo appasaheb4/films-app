@@ -1,0 +1,26 @@
+{
+    "calendar": {
+        "checkIn": "Check-in",
+        "checkOut": "Check-out",
+        "late": "Late-in",
+        "onTime": "On-time",
+        "earlyOut": "Early-out",
+        "lateInEarlyOut": "Late-in, Early-out",
+        "hours": "hrs",
+        "minutes": "mins",
+        "holiday": "Holiday",
+        "viewInAttendance": "View in Attendance",
+        "viewInCalendar": "View in Calendar",
+        "viewInLeaves": "View in Leaves",
+        "at": "at",
+        "shiftStarts": "Your shift starts at {{startTime}} \nand ends at {{endTime}}",
+        "spentHours": "You have spent {{duration}} {{unit}} at work today",
+        "holidayStarts": "starts on {{startDate}} \nand ends on {{endDate}}",
+        "absentOn": "You are marked \nabsent today",
+        "leaveStartsOn": "Your leave period is\n{{startDate}} to\n{{endDate}}",
+        "oneDayLeave": "You are on a one-day\nleave today",
+        "halfDayLeave": "You are on leave today\nfrom {{startDate}} to {{endDate}}",
+        "eventTimings": "{{date}}\nfrom {{startTime}} to {{endTime}}",
+        "invitationFrom": "Invitation from {{name}}"
+    }
+}

@@ -1,0 +1,6 @@
+{
+        "weather": {
+                "c": "C",
+                "locationPermissionMessage":"In order to see the weather updates, kindly allow location permission from app settings."
+        }
+}

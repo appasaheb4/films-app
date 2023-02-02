@@ -1,0 +1,14 @@
+{
+    "permissions": {
+        "maxAttachmentSize": "The maximum allowed size for each file is {{size}} MB",
+        "featureUnavailable": "This feature is not available on this device.",
+        "cameraDenied": "You need to allow access to the camera to take photos.",
+        "videoDenied": "You need to allow access to the camera to take videos.",
+        "storageDenied": "You need to allow storage access to add attachments.",
+        "restrictedMediaAccess": "You need to provide full access to media/storage to add attachments",
+        "sizeLimitExceeded": "Your attachment {{name}} exceeds the allowed limit of {{size}} MB",
+        "unsupportedMediaType": "Your file {{name}} has an unsupported file format",
+        "settings": "Settings",
+        "locationDenied": "You need to allow location access to see the weather report."
+    }
+}

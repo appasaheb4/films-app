@@ -1,0 +1,44 @@
+
+{
+        "personalProfile":{
+                "personalInfo": "Personal Info",
+                "editPersonalInfo":"Edit Personal Info",
+                "businessInfo":"Business Info",
+                "cancel":"Cancel",
+                "overview":"Overview",
+                "hireDate":"Hire Date",
+                "dateOfBirth":"Date of birth",
+                "lastPromotion":"Last Promotion",
+                "workingSince":"Working Since",
+                "employmentDetails":"Employment Details",
+                "employeeId":"Employee Id",
+                "position":"Position",
+                "employmentType":"Employment Type",
+                "assignmentStatus":"Assignment Status",
+                "gender":"Gender",
+                "lastSalary":"Last Salary Change" ,
+                "year":"{{year}} year",
+                "years":"{{year}} years",
+                "attendance":"Attendance",
+                "attendance_check_in":"You checked in at {{time}}",
+                "attendance_check_out":"You checked-out at {{time}}",
+                "attendance_not_check_in":"You are marked absent today",
+                "attendance_absent":"Your shift starts at {{time}}",
+                "attendance_holiday":"Today is {{holiday}} holiday",
+                "attendance_onleave":"You are on leave today",
+                "attendance_weekend":"Today is weekend off",
+                "payroll":"Payroll",
+                "payroll_last_pay":"Last Pay - {{amount}}",
+                "payroll_no_salary_drawn":"No Salary drawn",
+                "expenses":"Expenses",
+                "expenses_due_expenses":"Due Expenses - {{amount}}",
+                "expenses_no_due":"No Expenses Due",
+                "male":"Male",
+                "female":"Female",
+                "viewEmployementInfo":"View your employment info",
+                "orgStructure":"Org. Structure",
+                "viewHierarcyChart":"View hierarchy chart"
+
+
+        }
+}

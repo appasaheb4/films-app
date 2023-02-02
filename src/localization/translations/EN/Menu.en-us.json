@@ -1,0 +1,34 @@
+{
+    "menu": {
+        "home": "Home",
+        "notifications": "Notifications",
+        "services": "Services",
+        "myRequests": "My Requests",
+        "myTasks": "To Do",
+        "groupTasks": "Group Tasks",
+        "serviceCatalog": "Service Catalog",
+        "profile": "Profile",
+        "businessInfo": "Business Info",
+        "personalInfo": "Personal Info",
+        "management": "Management",
+        "calendar": "Calendar",
+        "attendance": "Attendance",
+        "leaves": "Leaves",
+        "logout": "Logout",
+        "work": "Work",
+        "inbox": "Inbox",
+        "alertLogout": "Do you really want to logout?",
+        "cancel": "CANCEL",
+        "ok": "OK",
+        "nextMeetingIn": "NEXT MEETING IN",
+
+
+        "settings": "Settings",
+        "meetings": "Meetings",
+        "prayer": "Prayer",
+        "myFiles": "My Files",
+        "weather": "Weather",
+        "privateProfile": "Private Profile",
+        "publicProfile": "Public Profile"
+    }
+}

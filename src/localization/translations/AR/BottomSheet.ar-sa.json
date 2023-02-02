@@ -1,0 +1,7 @@
+{
+        "reassign": {
+                "reassignTask": "إعادة تعيين المهمة",
+                "searchAssignee":"المسؤول عن البحث ...",
+                "noMatchFound":"لم يتم العثور على تطابق لـ {{search_text}}"
+        }
+}

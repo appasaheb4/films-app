@@ -1,0 +1,6 @@
+{
+    "networkIndicator": {
+        "noConnection": "No Internet connection",
+        "backOnline": "Back Online"
+    }
+}

@@ -1,0 +1,15 @@
+{
+        "mygrouptasks": {
+                "title": "Inbox",
+                "notask": "No tasks assigned\nto the group yet",
+                "confirmAction":"Are you sure you want to {{actionName}} the task {{taskName}} ?",
+                "actionName":"Yes, {{action}} it",
+                "actionSuccess":"{{taskName}} has been successfully {{actionName}}.",
+                "mandatoryActionError":"You need to fill the mandatory fields before processing this task",
+                "assignedSuccess":"You have assigned this task to {{name}}",
+                "reassignedSuccess":"You have reassigned this task to {{name}}",
+                "assignedSelfSuccess":"This task has been assigned to you",
+                "noUsers":"No user available for this group.",
+                "genericSuccessMessage": "Task successfully completed"
+        }
+}

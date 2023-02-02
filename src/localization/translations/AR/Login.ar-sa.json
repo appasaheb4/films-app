@@ -1,0 +1,8 @@
+{
+  "login": {
+    "tapToLogin": "TAP TO LOGIN",
+    "tapToRetry": "TAP TO RETRY",
+    "errorUserProfile": "Error loading user profile.",
+    "logout": "Logout"
+  }
+}

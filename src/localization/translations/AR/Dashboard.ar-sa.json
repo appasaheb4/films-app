@@ -1,0 +1,27 @@
+
+{
+    "header":{
+        "hi":"مرحبًا {{name}}!"
+    },
+    "task":{
+        "teamMembers":"أعضاء الفريق",
+        "teams":"فرق",
+        "aging":"متوسط ​​الشيخوخة",
+        "days":"{{day}} أيام",
+        "tasks":"المهام",
+        "yourTasks":"المهام الخاصة بك"
+    },
+    "request":{
+        "myRequests": "طلباتي",
+        "viewAll": "مشاهدة الكل"
+    },
+    "calendarView":{
+        "calendar":"التقويم",
+        "attendance":"حضور",
+        "leaves":"أوراق",
+        "balance":"الرصيد",
+        "in":"في",
+        "out":"خارج",
+        "inOffice":"في المكتب"
+    }
+}
