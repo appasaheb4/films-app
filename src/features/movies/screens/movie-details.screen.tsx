@@ -1,14 +1,8 @@
 import React, {useState} from 'react';
-import {Platform, UIManager} from 'react-native';
 import {observer} from 'mobx-react-lite';
-import {Box, Text, Button, IconsIonicons} from '@/library/components';
+import {Box, Text} from '@/library/components';
 import {useStores} from '@/store';
 import {useEffect} from 'react';
-import {PopularItem, ShowingItem} from '../components';
-import {Storage} from '@/library/modules';
-import {constants} from '@/library/utils/constants';
-import {List, Divider} from 'react-native-paper';
-import {ScrollView} from 'react-native-gesture-handler';
 export const MovieDetails = observer((props: any) => {
   const {
     params: {id},
@@ -47,9 +41,9 @@ export const MovieDetails = observer((props: any) => {
           <Text>Director: {movideDetails?.director}</Text>
           <Text>Created: {movideDetails?.created}</Text>
           <Text>ReleaseDate: {movideDetails?.releaseDate}</Text>
-          <Text>OpeningCrawl : </Text>
+          <Text>OpeningCrawl: </Text>
           <Text marginLeft="xxl">{movideDetails?.openingCrawl}</Text>
-          <Text>Producers{movideDetails?.producers?.join(', ')}</Text>
+          <Text>Producers: {movideDetails?.producers?.join(', ')}</Text>
         </Box>
       </Box>
     </Box>
